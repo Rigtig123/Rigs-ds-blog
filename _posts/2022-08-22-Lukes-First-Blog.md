@@ -37,3 +37,10 @@ Here's a list:
 ## Images
 
 ![]({{ site.baseurl }}/images/Family.png "fast.ai's logo")
+
+![]({{ site.baseurl }}/images/firstday.png "fast.ai's logo")
+
+![]({{ site.baseurl }}/images/cat.png "fast.ai's logo")
+
+![]({{ site.baseurl }}/images/basketball.png "fast.ai's logo")
+
