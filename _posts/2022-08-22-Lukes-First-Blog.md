@@ -40,7 +40,7 @@ Here's a list:
 
 ![]({{ site.baseurl }}/images/firstday.png "fast.ai's logo")
 
-![]({{ site.baseurl }}/images/cat.png "fast.ai's logo")
+![]({{ site.baseurl }}/images/catt.png "fast.ai's logo")
 
 ![]({{ site.baseurl }}/images/basketball.png "fast.ai's logo")
 
