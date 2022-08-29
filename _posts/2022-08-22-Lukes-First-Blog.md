@@ -44,3 +44,4 @@ Here's a list:
 
 ![]({{ site.baseurl }}/images/basketball.png "fast.ai's logo")
 
+![]({{ site.baseurl }}/images/proof.png "fast.ai's logo")
