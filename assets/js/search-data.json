@@ -14,9 +14,9 @@
     
         ,"post1": {
             "title": "Lukes Second Blog",
-            "content": "Lukes Second Week Blog . How I used Bash to Create a Juypter Notebook . First, I created a bash notebook by selecting a New Notebook under the file menu and the sub-item allowed me to choose the notebook type as in diagram 2. The bash notebook I learned, is very similar to the Python one. I entered some code that I did in the NBA Trivia Post within a new cell and pressed Ctrl-Return to run the code. .",
-            "url": "https://rigtig123.github.io/Rigs-ds-blog/markdown/2022/08/27/How-To-Use-Bash.html",
-            "relUrl": "/markdown/2022/08/27/How-To-Use-Bash.html",
+            "content": "Lukes Second Week Blog and Vocab List . How I used Bash to Create a Juypter Notebook . First, I created a bash notebook by selecting a New Notebook under the file menu and the sub-item allowed me to choose the notebook type as in diagram 2. The bash notebook I learned, is very similar to the Python one. I entered some code that I did in the NBA Trivia Post within a new cell and pressed Ctrl-Return to run the code. . Vocabulary List print: used to output a message on the screen. For example, print(“Hello!”) output: Hello! You only use quotations for string, which are words. def: used to identify a function input: used to take an input from the user. Input taken from the user will be converted into a string ex: input(“Enter value: “) Enter value: 1 ‘1’ variable: used to input or is considered a space for a word. For example, msg = “hi” and then I did print(msg) it will output “hi” .",
+            "url": "https://rigtig123.github.io/Rigs-ds-blog/markdown/2022/08/27/How-To-Use-Bash-copy.html",
+            "relUrl": "/markdown/2022/08/27/How-To-Use-Bash-copy.html",
             "date": " • Aug 27, 2022"
         }
         
@@ -36,7 +36,7 @@
     
         ,"post3": {
             "title": "Lukes First Blog",
-            "content": "Lukes First Blog . Overview of Why I took this course . Hi my name is Luke Riggins and I am a current senior at Del Norte Highschool. This is my first time ever learning about computer science and I am very eager to learn more and use it in the real world. . . About Me . Here’s a list: . In my free time I like to play Basketball | I am the vice president of Del Norte Athletes Mental Health Union | President of Postgame SD club at Del Norte | I stream and play video games in my free time | . Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . . . .",
+            "content": "Lukes First Blog . Overview of Why I took this course . Hi my name is Luke Riggins and I am a current senior at Del Norte Highschool. This is my first time ever learning about computer science and I am very eager to learn more and use it in the real world. . . About Me . Here’s a list: . In my free time I like to play Basketball | I am the vice president of Del Norte Athletes Mental Health Union | President of Postgame SD club at Del Norte | I stream and play video games in my free time | . Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . . . . .",
             "url": "https://rigtig123.github.io/Rigs-ds-blog/markdown/2022/08/22/Lukes-First-Blog.html",
             "relUrl": "/markdown/2022/08/22/Lukes-First-Blog.html",
             "date": " • Aug 22, 2022"
