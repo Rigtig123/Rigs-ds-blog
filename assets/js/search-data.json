@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "NBA Trivia",
-            "content": "print(&quot;Rules: There will be a total of 10 questions starting very easy and finishing very difficult. Good luck!&quot;) . import getpass, sys #This is a function where it acts the user a question based on what the prompt is regarding NBA Trivia def question_and_answer(prompt): print(&quot;Question: &quot; + prompt) msg = input() print(&quot;Answer: &quot; + msg) # This is where the user will answer their question based on the give information through the prompt variable def question_with_response(prompt): print(&quot;Question: &quot; + prompt) msg = input() return msg # There are four questions in quiz and you start with zero correct and gain more as the user answers questions correctly questions = 4 correct = 0 print(&#39;Hello, &#39; + getpass.getuser() + &quot; running &quot; + sys.executable) print(&quot;You will be asked &quot; + str(questions) + &quot; questions.&quot;) question_and_answer(&quot;Ready for this NBA Quiz?&quot;) rsp = question_with_response(&quot;Who won the 2022 NBA Championship&quot;) if rsp == &quot;Golden State Warriors&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;Who has the most rings in NBA History?&quot;) if rsp == &quot;Bill Russell&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;What notable NBA player believes the Earth is flat?&quot;) if rsp == &quot;Kyrie Irving&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;Who scored the most points in a NBA game?&quot;) if rsp == &quot;Wilt Chamberlain&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) print(getpass.getuser() + &quot; you scored &quot; + str(correct) +&quot;/&quot; + str(questions)) .",
+            "content": "print(&quot;Rules: There will be a total of 10 questions starting very easy and finishing very difficult. Good luck!&quot;) . import getpass, sys #This is a function where it acts the user a question based on what the prompt is regarding NBA Trivia def question_and_answer(prompt): print(&quot;Question: &quot; + prompt) msg = input() print(&quot;Answer: &quot; + msg) # This is where the user will answer their question based on the give information through the prompt variable def question_with_response(prompt): print(&quot;Question: &quot; + prompt) msg = input() return msg # There are four questions in quiz and you start with zero correct and gain more as the user answers questions correctly questions = 4 correct = 0 print(&#39;Hello, &#39; + getpass.getuser() + &quot; running &quot; + sys.executable) print(&quot;You will be asked &quot; + str(questions) + &quot; questions.&quot;) question_and_answer(&quot;Ready for this NBA Quiz?&quot;) rsp = question_with_response(&quot;Who won the 2022 NBA Championship&quot;) if rsp == &quot;Golden State Warriors&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;Who has the most rings in NBA History?&quot;) if rsp == &quot;Bill Russell&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;What notable NBA player believes the Earth is flat?&quot;) if rsp == &quot;Kyrie Irving&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;Who scored the most points in a NBA game?&quot;) if rsp == &quot;Wilt Chamberlain&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) print(getpass.getuser() + &quot; you scored &quot; + str(correct) +&quot;/&quot; + str(questions)) . &lt;iframe frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;500px&quot; src=&quot;https://replit.com/@Rigtig123/NBA-Trivia#main.py&quot;&gt;&lt;/iframe&gt; .",
             "url": "https://rigtig123.github.io/Rigs-ds-blog/jupyter/2022/08/28/NBATRIVIA.html",
             "relUrl": "/jupyter/2022/08/28/NBATRIVIA.html",
             "date": " • Aug 28, 2022"
@@ -13,6 +13,17 @@
   
     
         ,"post1": {
+            "title": "Lukes Second Blog",
+            "content": "Lukes Second Week Blog . How I used Bash to Create a Juypter Notebook . First, I created a bash notebook by selecting a New Notebook under the file menu and the sub-item allowed me to choose the notebook type as in diagram 2. The bash notebook I learned, is very similar to the Python one. I entered some code that I did in the NBA Trivia Post within a new cell and pressed Ctrl-Return to run the code. .",
+            "url": "https://rigtig123.github.io/Rigs-ds-blog/markdown/2022/08/27/How-To-Use-Bash.html",
+            "relUrl": "/markdown/2022/08/27/How-To-Use-Bash.html",
+            "date": " • Aug 27, 2022"
+        }
+        
+    
+  
+    
+        ,"post2": {
             "title": "Lukes First Notebook",
             "content": "print(&quot;Hello World&quot;) .",
             "url": "https://rigtig123.github.io/Rigs-ds-blog/jupyter/2022/08/22/Lukes-First-Notebook.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "Lukes First Blog",
             "content": "Lukes First Blog . Overview of Why I took this course . Hi my name is Luke Riggins and I am a current senior at Del Norte Highschool. This is my first time ever learning about computer science and I am very eager to learn more and use it in the real world. . . About Me . Here’s a list: . In my free time I like to play Basketball | I am the vice president of Del Norte Athletes Mental Health Union | President of Postgame SD club at Del Norte | I stream and play video games in my free time | . Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . . . .",
             "url": "https://rigtig123.github.io/Rigs-ds-blog/markdown/2022/08/22/Lukes-First-Blog.html",
