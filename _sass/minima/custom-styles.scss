@@ -1,6 +1,12 @@
 /*-----------------------------------*/
 /*--- IMPORT STYLES FOR FASTPAGES ---*/
-@import "minima/fastpages-styles";  
+@import "minima/fastpages-styles";   
+
+/*-----------------------------------*/
+
+/*----- ADD YOUR STYLES BELOW -------*/
+
+@import "minima/dark-mode"
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
@@ -100,4 +106,3 @@ canvas {
 li .post-meta-description {
    color: $med-emph !important;
 }
-
